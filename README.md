@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zanhorvat
-- 👀 I’m interested in backend and frontend programming
+- 👀 I’m interested in backend and frontend
 - 🌱 I’m currently learning web developing course: "
 The Complete Web Developer in 2022: Zero to Mastery
 "
